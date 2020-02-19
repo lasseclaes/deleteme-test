@@ -1,1 +1,2 @@
 localscript.js
+hello
